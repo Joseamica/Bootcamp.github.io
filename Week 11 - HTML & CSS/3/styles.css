@@ -1,0 +1,43 @@
+/* Add your styles here */
+h1 {
+    font-size: 80px;
+}
+
+h3{
+    font-size:30px;
+}
+ .navbar {
+     padding:10px;
+     background-color: #5191fd;
+ }
+
+ .navbar li{
+    display: inline-block;
+    padding: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    cursor:pointer;
+    background-color: white;
+    border-radius: 3px;
+ }
+
+ .post {
+
+ }
+
+ .header {
+     text-align: center;
+     background-color: #cdcdcd;
+     height: 200px;
+
+
+ }
+ .post {
+     margin-top: 50px;
+     margin-right: 100px;
+     margin-left: 100px;
+ }
+
+ .navbar li a {
+     text-decoration: none;
+ }

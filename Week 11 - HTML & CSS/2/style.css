@@ -1,0 +1,44 @@
+
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 15px;
+    }
+    h1 {
+      color:darkslategrey; font-size:45px;
+    }
+    .primary_logo {
+        text-align: center;
+      }
+    #menu {
+      margin-left:auto;
+      margin-right:auto;  
+    }
+    #header {
+      text-align: center;
+      font-family: fantasy;
+      padding: 20px;
+    }
+    #name {
+      text-align: center;
+    }
+    #profile_pic {
+        text-align: center;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+      .top_top_top {
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: black;
+      }
+    
+  
