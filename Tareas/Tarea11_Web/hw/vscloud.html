@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	 <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap.css">
+
+	<title>latitude data</title>
+</head>
+<body class= "container">
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+	  <a class="navbar-brand" href="landing.html">Latitude</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse" id="navbarColor01">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item active">
+	        <a class="nav-link" href="landing.html">Home <span class="sr-only">(current)</span></a>
+	      </li>
+	      <li class="nav-item dropdown">
+		    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="landing.html" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
+		    <div class="dropdown-menu">
+		      <a class="dropdown-item" href="vstemp.html">Max temperature</a>
+		      <a class="dropdown-item" href="vshum.html">Humidity</a>
+		      <a class="dropdown-item" href="vscloud.html">Cloudiness</a>
+		      <a class="dropdown-item" href="vswind.html">Wind speed</a>
+		    </div>
+		  </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="comparisons.html">Comparison</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="data.html">Data</a>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<div class="jumbotron">
+		<div class="card border-primary mb-3" style="max-width: 80rem;">
+			<div class="card-header"><h1>Cloudiness</h1></div>
+		  	<div class="card-body">
+		    	<img class="card-img-bottom" src="images/vscloud.png"></img>
+		    	<p class="card-text">There is no clear correlation between these factors, nevertheless, <a href="http://www-das.uwyo.edu/~geerts/cwx/notes/chap08/cloud_lat.html"></a> has the following to say: Detailed satellite-based estimates of global cloudiness have been made since the mid 1980's as part of the International Satellite Cloud Climatology Project (ISCCP), and Figs 1-3 have been derived from this data set. Figs 1-2 contrasts global cloudiness in winter and summer, and Fig 3 shows the seasonal variation of cloudiness as a function of latitude in the central Pacific. At this longitude, cloudiness is suppressed at the equator (due to equatorial ocean upwelling, hence lower SSTs, hence atmospheric subsidence). The ITCZ can be seen between 5-10ºN (year-round), and the SPCZ is weaker and mostly a summer phenomenon, around 15ºS. The main belts of high cloudiness are associated with midlatitude cyclones (30-60º). The baroclinic storm track is found at a higher latitude and is stronger in summer, mainly in the northern hemisphere.</p>
+		 	</div>
+		 </div>
+		<div class="card border-secondary mb-3" style="max-width: 80rem;">
+		  	<div class="card-header"><h2>Select a variable to measure</h2></div>
+		  	<div class="card-body">
+		    	<h4 class="card-title">Click any plot for an in depth analisis</h4>
+		    	<a href="vscloud.html"><img class="card-img-top" src="images/vscloud.png" ></img></a>
+		    	<a href="vshum.html"><img class="card-img-top" src="images/vshum.png" href="vshum.html"></img></a>
+		    	<a href="vstemp.html"><img class="card-img-top" src="images/vstemp.png" href="#"></img></a>
+		    	<a href="vswind.html"><img class="card-img-top" src="images/vswind.png" href="#"></img></a>
+		 	</div>
+		</div>
+	</div>
+
+	<footer class= "card-footer">
+		<p>&copy; Copyright coding bootcamp 2017</p>
+	</footer>
+
+	<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+</html>

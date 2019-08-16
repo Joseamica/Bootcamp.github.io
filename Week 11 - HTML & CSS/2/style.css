@@ -33,12 +33,7 @@
         margin-right: auto;
         width: 50%;
       }
-      .top_top_top {
-        margin-right: auto;
-        margin-left: auto;
-        padding-left: 15px;
-        padding-right: 15px;
-        background-color: black;
-      }
-    
+      .social-item {
+        display: inline-block;
+    }
   

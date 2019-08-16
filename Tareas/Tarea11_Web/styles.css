@@ -1,0 +1,18 @@
+.container-example {
+    margin: auto;
+    background-color: blue;
+}
+
+.boxLeft{
+    height: 10vw;
+    width: 10vw;
+    background-color: aqua;
+    margin-left: 0%;
+}
+
+.boxRight{
+    height: 10vw;
+    width: 10vw;
+    background-color: red;
+    margin-left:auto;
+}
