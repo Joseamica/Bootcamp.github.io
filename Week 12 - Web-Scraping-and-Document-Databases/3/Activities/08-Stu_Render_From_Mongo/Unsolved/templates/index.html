@@ -13,6 +13,9 @@
   <div class="container text-center">
     <h1 class="jumbotron">Inventory</h1>
     <div>
+       {% for i in p %}
+        <li>{{ p.type }}: {{ team.cost }}</li>
+      {% endfor %}
 
         <!-- @TODO: write a for loop that lists out your data and accesses the values using dot notation. -->
 
