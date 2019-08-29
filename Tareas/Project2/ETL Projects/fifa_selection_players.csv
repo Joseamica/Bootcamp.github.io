@@ -1,0 +1,334 @@
+id,name,date_of_birth,position,current_club,f_matches,f_substitutions,f_goals,nf_matches,nf_substitutions,nf_goals,national_team,year
+0,Alisson,1992-10-02,Goalkeeper,AS Roma,7,0,0,0,0,0,Brazil,2017
+1,Weverton,1987-12-13,Goalkeeper,Atlético Paranaense (PR),2,0,0,0,0,0,Brazil,2017
+2,"Alves, Diego",1985-06-24,Goalkeeper,CR Flamengo (RJ),1,0,0,0,0,0,Brazil,2017
+3,Ederson,1993-08-17,Goalkeeper,Manchester City,1,0,0,0,0,0,Brazil,2017
+4,"Ramos, Cássio",1987-06-06,Goalkeeper,SC Corinthians (SP),0,1,0,0,0,0,Brazil,2017
+5,Marquinhos,1994-05-14,Centre Back,Paris Saint-Germain,6,1,0,0,0,0,Brazil,2017
+6,"Alves, Dani",1983-05-06,Right Back,Paris Saint-Germain,6,0,0,0,0,0,Brazil,2017
+7,"Miranda, João",1984-09-07,Centre Back,Inter Milano,6,0,0,0,0,0,Brazil,2017
+8,"Silva, Thiago",1984-09-22,Centre Back,Paris Saint-Germain,5,2,1,0,0,0,Brazil,2017
+9,Marcelo,1988-05-12,Left Back,Real Madrid,5,0,2,0,0,0,Brazil,2017
+10,Alex Sandro,1991-01-26,Left Back,Juventus Torino,3,1,0,0,0,0,Brazil,2017
+11,Fágner,1989-06-11,Right Back,SC Corinthians (SP),3,0,0,0,0,0,Brazil,2017
+12,Rodrigo Caio,1993-08-17,Centre Back,São Paulo FC (SP),2,1,0,0,0,0,Brazil,2017
+13,Filipe Luís,1985-08-09,Left Back,Atlético Madrid,2,0,0,0,0,0,Brazil,2017
+14,Jemerson,1992-08-24,Centre Back,AS Monaco,1,1,0,0,0,0,Brazil,2017
+15,Rafinha,1985-09-07,Right Back,Bayern München,1,1,0,0,0,0,Brazil,2017
+16,Danilo,1991-07-15,Right Back,Manchester City,1,0,0,0,0,0,Brazil,2017
+17,David Luiz,1987-04-22,Centre Back,Chelsea FC,1,0,0,0,0,0,Brazil,2017
+18,"Geromel, Pedro",1985-09-21,Centre Back,Grêmio FBPA (RS),1,0,0,0,0,0,Brazil,2017
+19,Gil,1987-06-12,Centre Back,Shandong Luneng Taishan,1,0,0,0,0,0,Brazil,2017
+20,"Santos, Fábio",1985-09-16,Left Back,Atlético Mineiro (MG),1,0,0,0,0,0,Brazil,2017
+21,Jorge,1996-03-28,Left Back,AS Monaco,0,1,0,0,0,0,Brazil,2017
+22,Paulinho,1988-07-25,Centre Midfielder,FC Barcelona,9,0,5,0,0,0,Brazil,2017
+23,"Augusto, Renato",1988-02-08,Attacking Midfielder,Beijing Guoan,8,2,0,0,0,0,Brazil,2017
+24,"Coutinho, Philippe",1992-06-12,Attacking Midfielder,FC Barcelona,7,2,2,0,0,0,Brazil,2017
+25,Casemiro,1992-02-23,Defensive Midfielder,Real Madrid,7,0,0,0,0,0,Brazil,2017
+26,Willian,1988-08-09,Right Midfielder,Chelsea FC,4,6,1,0,0,0,Brazil,2017
+27,Fernandinho,1985-05-04,Centre Midfielder,Manchester City,3,5,0,0,0,0,Brazil,2017
+28,"Souza, Diego",1985-06-17,Attacking Midfielder,Sport Recife (PE),2,3,2,0,0,0,Brazil,2017
+29,Giuliano,1990-05-31,Attacking Midfielder,Fenerbahçe SK,2,1,0,0,0,0,Brazil,2017
+30,Dudu,1992-01-07,Attacking Midfielder,SE Palmeiras (SP),1,0,1,0,0,0,Brazil,2017
+31,"Lima, Lucas",1990-07-09,Attacking Midfielder,Santos FC (SP),1,0,0,0,0,0,Brazil,2017
+32,"Arão, Willian",1992-12-03,Defensive Midfielder,CR Flamengo (RJ),1,0,0,0,0,0,Brazil,2017
+33,Walace,1995-04-04,Defensive Midfielder,Hamburger SV,1,0,0,0,0,0,Brazil,2017
+34,Rodriguinho,1988-03-27,Centre Midfielder,SC Corinthians (SP),0,2,0,0,0,0,Brazil,2017
+35,Camilo,1986-03-09,Attacking Midfielder,SC Internacional (RS),0,1,0,0,0,0,Brazil,2017
+36,Diego,1985-02-28,Attacking Midfielder,CR Flamengo (RJ),0,1,0,0,0,0,Brazil,2017
+37,"Scarpa, Gustavo",1994-01-05,Left Midfielder,Fluminense FC (RJ),0,1,0,0,0,0,Brazil,2017
+38,Neymar,1992-02-05,Centre Forward,Paris Saint-Germain,8,0,3,0,0,0,Brazil,2017
+39,"Jesus, Gabriel",1997-04-03,Centre Forward,Manchester City,6,1,3,0,0,0,Brazil,2017
+40,Roberto Firmino,1991-10-02,Secondary striker,Liverpool FC,3,2,0,0,0,0,Brazil,2017
+41,"Costa, Douglas",1990-09-14,Right Winger,Juventus Torino,1,2,0,0,0,0,Brazil,2017
+42,Robinho,1984-01-25,Secondary striker,Sivasspor,1,0,0,0,0,0,Brazil,2017
+43,Taison,1988-01-13,Left Winger,Shakhtar Donetsk,0,3,1,0,0,0,Brazil,2017
+44,Luan,1993-03-27,Centre Forward,Grêmio FBPA (RS),0,2,0,0,0,0,Brazil,2017
+45,Alisson,1992-10-02,Goalkeeper,Liverpool FC,12,0,0,0,0,0,Brazil,2018
+46,Ederson,1993-08-17,Goalkeeper,Manchester City,2,0,0,0,0,0,Brazil,2018
+47,Neto,1989-07-19,Goalkeeper,Valencia CF,1,0,0,0,0,0,Brazil,2018
+48,"Miranda, João",1984-09-07,Centre Back,Inter Milano,11,0,2,0,0,0,Brazil,2018
+49,"Silva, Thiago",1984-09-22,Centre Back,Paris Saint-Germain,10,0,1,0,0,0,Brazil,2018
+50,Marcelo,1988-05-12,Left Back,Real Madrid,8,0,0,0,0,0,Brazil,2018
+51,Marquinhos,1994-05-14,Centre Back,Paris Saint-Germain,6,3,1,0,0,0,Brazil,2018
+52,Danilo,1991-07-15,Right Back,Manchester City,6,0,0,0,0,0,Brazil,2018
+53,Filipe Luís,1985-08-09,Left Back,Atlético Madrid,4,3,0,0,0,0,Brazil,2018
+54,Fágner,1989-06-11,Right Back,SC Corinthians (SP),4,1,0,0,0,0,Brazil,2018
+55,Alex Sandro,1991-01-26,Left Back,Juventus Torino,3,0,1,0,0,0,Brazil,2018
+56,Fabinho,1993-10-23,Right Back,Liverpool FC,2,1,0,0,0,0,Brazil,2018
+57,"Alves, Dani",1983-05-06,Right Back,Paris Saint-Germain,2,0,0,0,0,0,Brazil,2018
+58,Pablo,1991-06-21,Centre Back,Girondins Bordeaux,2,0,0,0,0,0,Brazil,2018
+59,Dedé,1988-07-01,Centre Back,Cruzeiro EC (MG),1,1,0,0,0,0,Brazil,2018
+60,"Militão, Éder",1998-01-18,Centre Back,FC Porto,1,0,0,0,0,0,Brazil,2018
+61,Felipe,1989-05-16,Centre Back,FC Porto,0,1,0,0,0,0,Brazil,2018
+62,"Geromel, Pedro",1985-09-21,Centre Back,Grêmio FBPA (RS),0,1,0,0,0,0,Brazil,2018
+63,"Coutinho, Philippe",1992-06-12,Attacking Midfielder,FC Barcelona,13,0,5,0,0,0,Brazil,2018
+64,Casemiro,1992-02-23,Defensive Midfielder,Real Madrid,12,0,0,0,0,0,Brazil,2018
+65,Willian,1988-08-09,Right Midfielder,Chelsea FC,10,2,0,0,0,0,Brazil,2018
+66,Paulinho,1988-07-25,Centre Midfielder,Guangzhou Evergrande,10,0,2,0,0,0,Brazil,2018
+67,Arthur,1996-08-12,Centre Midfielder,FC Barcelona,4,2,0,0,0,0,Brazil,2018
+68,Fernandinho,1985-05-04,Centre Midfielder,Manchester City,3,5,0,0,0,0,Brazil,2018
+69,"Augusto, Renato",1988-02-08,Attacking Midfielder,Beijing Guoan,2,4,1,0,0,0,Brazil,2018
+70,Fred,1993-03-05,Attacking Midfielder,Manchester United,2,3,0,0,0,0,Brazil,2018
+71,Walace,1995-04-04,Defensive Midfielder,Hannover 96,1,2,0,0,0,0,Brazil,2018
+72,Allan,1991-01-08,Centre Midfielder,SSC Napoli,1,1,0,0,0,0,Brazil,2018
+73,Lucas Paquetá,1997-08-27,Attacking Midfielder,AC Milan,0,2,0,0,0,0,Brazil,2018
+74,"Pereira, Andreas",1996-01-01,Attacking Midfielder,Manchester United,0,1,0,0,0,0,Brazil,2018
+75,Neymar,1992-02-05,Centre Forward,Paris Saint-Germain,12,1,7,0,0,0,Brazil,2018
+76,"Jesus, Gabriel",1997-04-03,Centre Forward,Manchester City,11,1,3,0,0,0,Brazil,2018
+77,Roberto Firmino,1991-10-02,Secondary striker,Liverpool FC,4,7,3,0,0,0,Brazil,2018
+78,"Costa, Douglas",1990-09-14,Right Winger,Juventus Torino,4,5,0,0,0,0,Brazil,2018
+79,Richarlison,1997-05-10,Left Winger,Everton FC,1,5,3,0,0,0,Brazil,2018
+80,Taison,1988-01-13,Left Winger,Shakhtar Donetsk,0,3,0,0,0,0,Brazil,2018
+81,Éverton,1996-03-22,Left Winger,Grêmio FBPA (RS),0,2,0,0,0,0,Brazil,2018
+82,"Moura, Lucas",1992-08-13,Right Winger,Tottenham Hotspur,0,1,0,0,0,0,Brazil,2018
+83,Alisson,1992-10-02,Goalkeeper,Liverpool FC,8,0,0,0,0,0,Brazil,2019
+84,Ederson,1993-08-17,Goalkeeper,Manchester City,2,0,0,0,0,0,Brazil,2019
+85,Marquinhos,1994-05-14,Centre Back,Paris Saint-Germain,9,0,0,0,0,0,Brazil,2019
+86,"Alves, Dani",1983-05-06,Right Back,São Paulo FC (SP),8,0,1,0,0,0,Brazil,2019
+87,"Silva, Thiago",1984-09-22,Centre Back,Paris Saint-Germain,8,0,1,0,0,0,Brazil,2019
+88,Filipe Luís,1985-08-09,Left Back,CR Flamengo (RJ),6,0,0,0,0,0,Brazil,2019
+89,Alex Sandro,1991-01-26,Left Back,Juventus Torino,3,3,0,0,0,0,Brazil,2019
+90,"Miranda, João",1984-09-07,Centre Back,Jiangsu Suning,2,2,0,0,0,0,Brazil,2019
+91,"Militão, Éder",1998-01-18,Centre Back,Real Madrid,1,3,0,0,0,0,Brazil,2019
+92,Danilo,1991-07-15,Right Back,Juventus Torino,1,0,0,0,0,0,Brazil,2019
+93,Fágner,1989-06-11,Right Back,SC Corinthians (SP),1,0,0,0,0,0,Brazil,2019
+94,"Telles, Alex",1992-12-15,Left Back,FC Porto,1,0,0,0,0,0,Brazil,2019
+95,Fabinho,1993-10-23,Right Back,Liverpool FC,0,1,0,0,0,0,Brazil,2019
+96,"Coutinho, Philippe",1992-06-12,Attacking Midfielder,Bayern München,10,0,2,0,0,0,Brazil,2019
+97,Casemiro,1992-02-23,Defensive Midfielder,Real Madrid,9,0,1,0,0,0,Brazil,2019
+98,Arthur,1996-08-12,Centre Midfielder,FC Barcelona,8,1,0,0,0,0,Brazil,2019
+99,Allan,1991-01-08,Centre Midfielder,SSC Napoli,2,4,0,0,0,0,Brazil,2019
+100,Lucas Paquetá,1997-08-27,Attacking Midfielder,AC Milan,2,2,1,0,0,0,Brazil,2019
+101,Fernandinho,1985-05-04,Centre Midfielder,Manchester City,1,3,0,0,0,0,Brazil,2019
+102,Willian,1988-08-09,Right Midfielder,Chelsea FC,0,4,1,0,0,0,Brazil,2019
+103,Roberto Firmino,1991-10-02,Secondary striker,Liverpool FC,8,1,4,0,0,0,Brazil,2019
+104,"Jesus, Gabriel",1997-04-03,Centre Forward,Manchester City,6,4,7,0,0,0,Brazil,2019
+105,Richarlison,1997-05-10,Left Winger,Everton FC,6,1,3,0,0,0,Brazil,2019
+106,Éverton,1996-03-22,Left Winger,Grêmio FBPA (RS),4,6,3,0,0,0,Brazil,2019
+107,"Neres, David",1997-03-03,Right Winger,Ajax Amsterdam,3,2,1,0,0,0,Brazil,2019
+108,Neymar,1992-02-05,Centre Forward,Paris Saint-Germain,1,0,0,0,0,0,Brazil,2019
+109,Felipe Anderson,1993-04-15,Left Winger,West Ham United,0,1,0,0,0,0,Brazil,2019
+110,"Ochoa, Guillermo",1985-07-13,Goalkeeper,Standard Liège,12,0,0,0,0,0,Mexico,2017
+111,"Corona, Jesús",1981-01-26,Goalkeeper,Cruz Azul México,7,1,0,0,0,0,Mexico,2017
+112,"Talavera, Alfredo",1982-09-18,Goalkeeper,Deportivo Toluca,3,0,0,0,0,0,Mexico,2017
+113,"Muñoz, Moisés",1980-02-01,Goalkeeper,Puebla FC,2,0,0,0,0,0,Mexico,2017
+114,"Cota, Rodolfo",1987-07-03,Goalkeeper,Chivas Guadalajara,1,0,0,0,0,0,Mexico,2017
+115,"Moreno, Héctor",1988-01-17,Centre Back,Real Sociedad San Sebastian,13,1,1,0,0,0,Mexico,2017
+116,"Reyes, Diego",1992-09-19,Centre Back,FC Porto,13,0,1,0,0,0,Mexico,2017
+117,"Layún, Miguel",1988-06-25,Right Back,Sevilla FC,11,1,0,0,0,0,Mexico,2017
+118,"Araujo, Néstor",1991-08-29,Centre Back,Santos Laguna,10,3,2,0,0,0,Mexico,2017
+119,"Salcedo, Carlos",1993-09-29,Centre Back,Eintracht Frankfurt,10,0,0,0,0,0,Mexico,2017
+120,"Ayala, Hugo",1987-03-31,Centre Back,Tigres UA Nuevo León,8,1,0,0,0,0,Mexico,2017
+121,"Alanís, Oswaldo",1989-03-18,Centre Back,Chivas Guadalajara,6,2,1,0,0,0,Mexico,2017
+122,"Reyes, Luis",1991-04-03,Left Back,Atlas Guadalajara,6,2,0,0,0,0,Mexico,2017
+123,"Álvarez, Edson",1997-10-24,Centre Back,América México,5,4,1,0,0,0,Mexico,2017
+124,"Pereira, Jair",1986-07-07,Centre Back,Chivas Guadalajara,5,1,0,0,0,0,Mexico,2017
+125,"Marín, Hedgardo",1993-02-21,Centre Back,Chivas Guadalajara,4,0,1,0,0,0,Mexico,2017
+126,"Márquez, Rafael",1979-02-13,Centre Back,Atlas Guadalajara,3,3,0,0,0,0,Mexico,2017
+127,"Rodríguez, Luis",1991-01-21,Right Back,Tigres UA Nuevo León,3,1,0,0,0,0,Mexico,2017
+128,"López, Raúl",1993-02-23,Right Back,Pachuca CF,1,5,0,0,0,0,Mexico,2017
+129,"Montes, César",1997-02-24,Centre Back,CF Monterrey,1,4,0,0,0,0,Mexico,2017
+130,"Herrera, Héctor",1990-04-19,Centre Midfielder,FC Porto,14,1,1,0,0,0,Mexico,2017
+131,"Gallardo, Jesús",1994-08-15,Left Midfielder,Pumas UNA México,11,5,0,0,0,0,Mexico,2017
+132,"dos Santos, Jonathan",1990-04-26,Centre Midfielder,Los Angeles Galaxy,10,3,0,0,0,0,Mexico,2017
+133,"Guardado, Andrés",1986-09-28,Centre Midfielder,Real Betis Sevilla,8,2,1,0,0,0,Mexico,2017
+134,"Molina, Jesús",1988-03-29,Defensive Midfielder,CF Monterrey,8,2,0,0,0,0,Mexico,2017
+135,"Hernández, Elías",1988-04-29,Right Midfielder,León FC,7,2,3,0,0,0,Mexico,2017
+136,"Pineda, Orbelín",1996-03-24,Attacking Midfielder,Chivas Guadalajara,6,5,1,0,0,0,Mexico,2017
+137,"Dueñas, Jesús",1989-03-16,Defensive Midfielder,Tigres UA Nuevo León,6,1,0,0,0,0,Mexico,2017
+138,"Pizarro, Rodolfo",1994-02-15,Attacking Midfielder,Chivas Guadalajara,6,0,2,0,0,0,Mexico,2017
+139,"Gutiérrez, Erick",1995-06-15,Centre Midfielder,Pachuca CF,4,3,0,0,0,0,Mexico,2017
+140,"Hernández, Jorge Daniel",1989-06-10,Centre Midfielder,Pachuca CF,3,1,0,0,0,0,Mexico,2017
+141,"Fabián, Marco",1989-07-21,Attacking Midfielder,Eintracht Frankfurt,2,2,1,0,0,0,Mexico,2017
+142,"Montes, Luis Arturo",1986-05-15,Left Midfielder,León FC,0,1,0,0,0,0,Mexico,2017
+143,"Govea, Omar",1996-01-18,Defensive Midfielder,Royal Excel Mouscron,0,1,0,0,0,0,Mexico,2017
+144,"Vela, Carlos",1989-03-01,Secondary striker,Real Sociedad San Sebastian,10,5,3,0,0,0,Mexico,2017
+145,"Hernández, Javier 'Chicharito'",1988-06-01,Centre Forward,West Ham United,10,1,4,0,0,0,Mexico,2017
+146,"Jiménez, Raúl",1991-05-05,Centre Forward,Benfica Lisboa,9,3,4,0,0,0,Mexico,2017
+147,"Lozano, Hirving",1995-07-30,Right Winger,PSV Eindhoven,6,6,6,0,0,0,Mexico,2017
+148,"dos Santos, Giovani",1989-05-11,Right Winger,Los Angeles Galaxy,6,2,0,0,0,0,Mexico,2017
+149,"Peralta, Oribe",1984-01-12,Centre Forward,América México,5,5,2,0,0,0,Mexico,2017
+150,"Aquino, Javier",1990-02-11,Left Winger,Tigres UA Nuevo León,4,5,0,0,0,0,Mexico,2017
+151,"Corona, Jesús Manuel",1993-01-06,Right Winger,FC Porto,4,2,1,0,0,0,Mexico,2017
+152,"Sepúlveda, Ángel",1991-02-15,Right Winger,Monarcas Morelia,4,2,1,0,0,0,Mexico,2017
+153,"Damm, Jürgen",1992-11-07,Right Winger,Tigres UA Nuevo León,3,2,0,0,0,0,Mexico,2017
+154,"Torres, Erick",1993-01-19,Centre Forward,Pumas UNA México,2,1,0,0,0,0,Mexico,2017
+155,"Pulido, Alan",1991-03-08,Centre Forward,Chivas Guadalajara,2,0,1,0,0,0,Mexico,2017
+156,"Barragán, Martín",1991-07-14,Centre Forward,Necaxa Aguascalientes,1,3,0,0,0,0,Mexico,2017
+157,"Ochoa, Guillermo",1985-07-13,Goalkeeper,Standard Liège,9,0,0,0,0,0,Mexico,2018
+158,"Corona, Jesús",1981-01-26,Goalkeeper,Cruz Azul México,3,0,0,0,0,0,Mexico,2018
+159,"González, Hugo",1990-08-01,Goalkeeper,Necaxa Aguascalientes,2,0,0,0,0,0,Mexico,2018
+160,"Cota, Rodolfo",1987-07-03,Goalkeeper,León FC,1,0,0,0,0,0,Mexico,2018
+161,"Lajud, Gibrán",1993-12-25,Goalkeeper,Club Tijuana,1,0,0,0,0,0,Mexico,2018
+162,"Gudiño, Raúl",1996-04-22,Goalkeeper,Chivas Guadalajara,0,2,0,0,0,0,Mexico,2018
+163,"Ayala, Hugo",1987-03-31,Centre Back,Tigres UA Nuevo León,9,0,1,0,0,0,Mexico,2018
+164,"Álvarez, Edson",1997-10-24,Centre Back,América México,8,3,0,0,0,0,Mexico,2018
+165,"Salcedo, Carlos",1993-09-29,Centre Back,Tigres UA Nuevo León,7,2,0,0,0,0,Mexico,2018
+166,"Layún, Miguel",1988-06-25,Right Back,CF Monterrey,6,3,2,0,0,0,Mexico,2018
+167,"Moreno, Héctor",1988-01-17,Centre Back,Real Sociedad San Sebastian,6,0,0,0,0,0,Mexico,2018
+168,"Araujo, Néstor",1991-08-29,Centre Back,Celta Vigo,4,1,0,0,0,0,Mexico,2018
+169,"Rodríguez, Luis",1991-01-21,Right Back,Tigres UA Nuevo León,4,1,0,0,0,0,Mexico,2018
+170,"Arteaga, Gerardo",1998-09-07,Left Back,Santos Laguna,3,1,0,0,0,0,Mexico,2018
+171,"Reyes, Diego",1992-09-19,Centre Back,CD Leganés,3,1,0,0,0,0,Mexico,2018
+172,"Alanís, Oswaldo",1989-03-18,Centre Back,Real Oviedo,3,0,0,0,0,0,Mexico,2018
+173,"Angulo, Jesús",1998-01-30,Left Back,Santos Laguna,2,1,0,0,0,0,Mexico,2018
+174,"Márquez, Rafael",1979-02-13,Centre Back,Atlas Guadalajara,1,4,0,0,0,0,Mexico,2018
+175,"Domínguez, Julio César",1987-11-08,Right Back,Cruz Azul México,1,1,0,0,0,0,Mexico,2018
+176,"Abella, José",1994-02-10,Right Back,Santos Laguna,1,0,0,0,0,0,Mexico,2018
+177,"van Rankin, Josecarlos",1993-05-14,Right Back,Chivas Guadalajara,1,0,0,0,0,0,Mexico,2018
+178,"Mier, Hiram",1989-08-25,Centre Back,Chivas Guadalajara,0,1,0,0,0,0,Mexico,2018
+179,"Gallardo, Jesús",1994-08-15,Left Midfielder,CF Monterrey,12,2,0,0,0,0,Mexico,2018
+180,"Guardado, Andrés",1986-09-28,Centre Midfielder,Real Betis Sevilla,7,0,0,0,0,0,Mexico,2018
+181,"Herrera, Héctor",1990-04-19,Centre Midfielder,FC Porto,7,0,0,0,0,0,Mexico,2018
+182,"Gutiérrez, Erick",1995-06-15,Centre Midfielder,PSV Eindhoven,5,0,0,0,0,0,Mexico,2018
+183,"Fabián, Marco",1989-07-21,Attacking Midfielder,Eintracht Frankfurt,3,4,1,0,0,0,Mexico,2018
+184,"Guzmán, Víctor",1995-02-03,Attacking Midfielder,Pachuca CF,3,2,1,0,0,0,Mexico,2018
+185,"dos Santos, Jonathan",1990-04-26,Centre Midfielder,Los Angeles Galaxy,2,4,0,0,0,0,Mexico,2018
+186,"Alvarado, Roberto",1998-09-07,Attacking Midfielder,Cruz Azul México,2,3,0,0,0,0,Mexico,2018
+187,"Molina, Jesús",1988-03-29,Defensive Midfielder,Chivas Guadalajara,2,2,0,0,0,0,Mexico,2018
+188,"Hernández, Elías",1988-04-29,Right Midfielder,Cruz Azul México,2,1,0,0,0,0,Mexico,2018
+189,"Dueñas, Jesús",1989-03-16,Defensive Midfielder,Tigres UA Nuevo León,2,0,0,0,0,0,Mexico,2018
+190,"Güemez, Javier",1991-10-17,Centre Midfielder,Querétaro FC,2,0,0,0,0,0,Mexico,2018
+191,"Pizarro, Rodolfo",1994-02-15,Attacking Midfielder,CF Monterrey,1,2,0,0,0,0,Mexico,2018
+192,"Govea, Omar",1996-01-18,Defensive Midfielder,Royal Antwerp FC,1,1,0,0,0,0,Mexico,2018
+193,"Hernández, Jorge Daniel",1989-06-10,Centre Midfielder,Pachuca CF,1,1,0,0,0,0,Mexico,2018
+194,"Pineda, Orbelín",1996-03-24,Attacking Midfielder,Cruz Azul México,1,0,0,0,0,0,Mexico,2018
+195,"González, Jonathan",1999-04-13,Defensive Midfielder,CF Monterrey,0,2,0,0,0,0,Mexico,2018
+196,"Lozano, Hirving",1995-07-30,Right Winger,PSV Eindhoven,8,2,1,0,0,0,Mexico,2018
+197,"Vela, Carlos",1989-03-01,Secondary striker,Los Angeles FC,7,1,1,0,0,0,Mexico,2018
+198,"Hernández, Javier 'Chicharito'",1988-06-01,Centre Forward,West Ham United,6,1,1,0,0,0,Mexico,2018
+199,"Jiménez, Raúl",1991-05-05,Centre Forward,Wolverhampton Wanderers,5,4,2,0,0,0,Mexico,2018
+200,"Corona, Jesús Manuel",1993-01-06,Right Winger,FC Porto,4,4,0,0,0,0,Mexico,2018
+201,"dos Santos, Giovani",1989-05-11,Right Winger,Los Angeles Galaxy,3,2,1,0,0,0,Mexico,2018
+202,"Aguirre, Érick",1997-02-23,Left Winger,Pachuca CF,3,1,0,0,0,0,Mexico,2018
+203,"Zaldívar, Ángel",1994-02-08,Centre Forward,CF Monterrey,2,3,0,0,0,0,Mexico,2018
+204,"Martín, Henry",1992-11-18,Secondary striker,América México,2,2,1,0,0,0,Mexico,2018
+205,"Aquino, Javier",1990-02-11,Left Winger,Tigres UA Nuevo León,2,2,0,0,0,0,Mexico,2018
+206,"Brizuela, Isaác",1990-08-28,Right Winger,Chivas Guadalajara,2,2,0,0,0,0,Mexico,2018
+207,"Pulido, Alan",1991-03-08,Centre Forward,Chivas Guadalajara,2,2,0,0,0,0,Mexico,2018
+208,"Peralta, Oribe",1984-01-12,Centre Forward,América México,1,4,0,0,0,0,Mexico,2018
+209,"Lainez, Diego",2000-06-09,Left Winger,Real Betis Sevilla,1,1,0,0,0,0,Mexico,2018
+210,"Damm, Jürgen",1992-11-07,Right Winger,Tigres UA Nuevo León,0,3,0,0,0,0,Mexico,2018
+211,"Ochoa, Guillermo",1985-07-13,Goalkeeper,América México,7,0,0,0,0,0,Mexico,2019
+212,"Orozco, Jonathan",1986-05-12,Goalkeeper,Santos Laguna,1,0,0,1,0,0,Mexico,2019
+213,"Gudiño, Raúl",1996-04-22,Goalkeeper,Chivas Guadalajara,1,0,0,0,0,0,Mexico,2019
+214,"Rodríguez, Luis",1991-01-21,Right Back,Tigres UA Nuevo León,7,0,1,0,0,0,Mexico,2019
+215,"Álvarez, Edson",1997-10-24,Centre Back,Ajax Amsterdam,7,0,0,1,0,0,Mexico,2019
+216,"Salcedo, Carlos",1993-09-29,Centre Back,Tigres UA Nuevo León,5,1,0,1,0,0,Mexico,2019
+217,"Araujo, Néstor",1991-08-29,Centre Back,Celta Vigo,5,0,0,0,0,0,Mexico,2019
+218,"Reyes, Diego",1992-09-19,Centre Back,Fenerbahçe SK,4,3,1,0,0,0,Mexico,2019
+219,"Moreno, Héctor",1988-01-17,Centre Back,Al-Gharrafa SC,4,2,1,0,0,0,Mexico,2019
+220,"Sánchez, Jorge",1997-12-10,Right Back,América México,2,1,0,0,0,0,Mexico,2019
+221,"Montes, César",1997-02-24,Centre Back,CF Monterrey,1,2,0,1,0,0,Mexico,2019
+222,"Layún, Miguel",1988-06-25,Right Back,CF Monterrey,1,1,0,0,0,0,Mexico,2019
+223,"Navarro, Fernando",1989-04-18,Right Back,León FC,1,0,0,1,0,1,Mexico,2019
+224,"Gallardo, Jesús",1994-08-15,Left Midfielder,CF Monterrey,7,1,0,1,0,0,Mexico,2019
+225,"Guardado, Andrés",1986-09-28,Centre Midfielder,Real Betis Sevilla,6,2,3,1,0,0,Mexico,2019
+226,"dos Santos, Jonathan",1990-04-26,Centre Midfielder,Los Angeles Galaxy,6,0,3,0,1,0,Mexico,2019
+227,"Alvarado, Roberto",1998-09-07,Attacking Midfielder,Cruz Azul México,5,3,2,1,0,0,Mexico,2019
+228,"Pizarro, Rodolfo",1994-02-15,Attacking Midfielder,CF Monterrey,5,1,1,0,1,0,Mexico,2019
+229,"Rodríguez, Carlos Alberto",1997-01-03,Centre Midfielder,CF Monterrey,3,4,0,1,0,0,Mexico,2019
+230,"Gutiérrez, Erick",1995-06-15,Centre Midfielder,PSV Eindhoven,3,1,0,0,0,0,Mexico,2019
+231,"Montes, Luis Arturo",1986-05-15,Left Midfielder,León FC,1,5,2,0,0,0,Mexico,2019
+232,"Pineda, Orbelín",1996-03-24,Attacking Midfielder,Cruz Azul México,1,2,0,0,0,0,Mexico,2019
+233,"Guzmán, Víctor",1995-02-03,Attacking Midfielder,Pachuca CF,0,1,0,0,0,0,Mexico,2019
+234,"Vázquez, José Juan",1988-03-14,Defensive Midfielder,Santos Laguna,0,1,0,0,0,0,Mexico,2019
+235,"Jiménez, Raúl",1991-05-05,Centre Forward,Wolverhampton Wanderers,8,0,5,1,0,1,Mexico,2019
+236,"Antuna, Uriel",1997-08-21,Right Winger,Los Angeles Galaxy,5,2,3,1,0,1,Mexico,2019
+237,"Hernández, Javier 'Chicharito'",1988-06-01,Centre Forward,West Ham United,1,1,1,0,0,0,Mexico,2019
+238,"Lainez, Diego",2000-06-09,Left Winger,Real Betis Sevilla,1,1,0,0,0,0,Mexico,2019
+239,"Lozano, Hirving",1995-07-30,Right Winger,SSC Napoli,1,0,1,0,0,0,Mexico,2019
+240,"Vega, Alexis",1997-11-25,Centre Forward,Chivas Guadalajara,0,4,1,0,1,0,Mexico,2019
+241,"Brizuela, Isaác",1990-08-28,Right Winger,Chivas Guadalajara,0,1,0,0,0,0,Mexico,2019
+242,"Lloris, Hugo",1986-12-26,Goalkeeper,Tottenham Hotspur,9,0,0,0,0,0,France,2017
+243,"Mandanda, Steve",1985-03-28,Goalkeeper,Olympique Marseille,2,0,0,0,0,0,France,2017
+244,"Umtiti, Samuel",1993-11-14,Centre Back,FC Barcelona,10,0,1,0,0,0,France,2017
+245,"Sidibé, Djibril",1992-07-29,Right Back,AS Monaco,8,0,1,0,0,0,France,2017
+246,"Koscielny, Laurent",1985-09-10,Centre Back,Arsenal FC,7,1,0,0,0,0,France,2017
+247,"Varane, Raphaël",1993-04-25,Centre Back,Real Madrid,5,0,0,0,0,0,France,2017
+248,"Kurzawa, Layvin",1992-09-04,Left Back,Paris Saint-Germain,4,1,0,0,0,0,France,2017
+249,"Mendy, Benjamin",1994-07-17,Left Back,Manchester City,4,0,0,0,0,0,France,2017
+250,"Digne, Lucas",1993-07-20,Left Back,FC Barcelona,3,2,0,0,0,0,France,2017
+251,"Jallet, Christophe",1983-10-31,Right Back,OGC Nice,3,2,0,0,0,0,France,2017
+252,"Pavard, Benjamin",1996-03-28,Centre Back,VfB Stuttgart,0,2,0,0,0,0,France,2017
+253,"Matuidi, Blaise",1987-04-09,Centre Midfielder,Juventus Torino,7,0,1,0,0,0,France,2017
+254,"Kanté, N'Golo",1991-03-29,Centre Midfielder,Chelsea FC,6,1,0,0,0,0,France,2017
+255,"Pogba, Paul",1993-03-15,Centre Midfielder,Manchester United,5,0,0,0,0,0,France,2017
+256,"Tolisso, Corentin",1994-08-03,Centre Midfielder,Bayern München,5,0,0,0,0,0,France,2017
+257,"Lemar, Thomas",1995-11-12,Left Midfielder,AS Monaco,4,3,2,0,0,0,France,2017
+258,"Dembélé, Ousmane",1997-05-15,Left Midfielder,FC Barcelona,3,1,1,0,0,0,France,2017
+259,"Rabiot, Adrien",1995-04-03,Centre Midfielder,Paris Saint-Germain,2,2,0,0,0,0,France,2017
+260,"Sissoko, Moussa",1989-08-16,Centre Midfielder,Tottenham Hotspur,1,2,1,0,0,0,France,2017
+261,"Fekir, Nabil",1993-07-18,Attacking Midfielder,Olympique Lyonnais,0,3,0,0,0,0,France,2017
+262,"N'Zonzi, Steven",1988-12-15,Defensive Midfielder,Sevilla FC,0,2,0,0,0,0,France,2017
+263,"Bakayoko, Tiemoué",1994-08-17,Defensive Midfielder,Chelsea FC,0,1,0,0,0,0,France,2017
+264,"Griezmann, Antoine",1991-03-21,Left Winger,Atlético Madrid,9,1,5,0,0,0,France,2017
+265,"Giroud, Olivier",1986-09-30,Centre Forward,Chelsea FC,8,2,8,0,0,0,France,2017
+266,"Mbappé, Kylian",1998-12-20,Centre Forward,Paris Saint-Germain,6,4,1,0,0,0,France,2017
+267,"Payet, Dimitri",1987-03-29,Left Winger,Olympique Marseille,3,2,0,0,0,0,France,2017
+268,"Coman, Kingsley",1996-06-13,Right Winger,Bayern München,3,1,0,0,0,0,France,2017
+269,"Lacazette, Alexandre",1991-05-28,Centre Forward,Arsenal FC,2,4,2,0,0,0,France,2017
+270,"Martial, Anthony",1995-12-05,Centre Forward,Manchester United,1,1,0,0,0,0,France,2017
+271,"Gameiro, Kévin",1987-05-09,Centre Forward,Atlético Madrid,1,0,0,0,0,0,France,2017
+272,"Thauvin, Florian",1993-01-26,Right Winger,Olympique Marseille,0,2,0,0,0,0,France,2017
+273,"Lloris, Hugo",1986-12-26,Goalkeeper,Tottenham Hotspur,14,0,0,0,0,0,France,2018
+274,"Areola, Alphonse",1993-02-27,Goalkeeper,Paris Saint-Germain,2,0,0,0,0,0,France,2018
+275,"Mandanda, Steve",1985-03-28,Goalkeeper,Olympique Marseille,2,0,0,0,0,0,France,2018
+276,"Pavard, Benjamin",1996-03-28,Centre Back,VfB Stuttgart,14,2,1,0,0,0,France,2018
+277,"Varane, Raphaël",1993-04-25,Centre Back,Real Madrid,14,0,1,0,0,0,France,2018
+278,"Umtiti, Samuel",1993-11-14,Centre Back,FC Barcelona,13,0,2,0,0,0,France,2018
+279,"Hernández, Lucas",1996-02-14,Centre Back,Atlético Madrid,12,3,0,0,0,0,France,2018
+280,"Kimpembe, Presnel",1995-08-13,Centre Back,Paris Saint-Germain,4,3,0,0,0,0,France,2018
+281,"Sidibé, Djibril",1992-07-29,Right Back,AS Monaco,4,0,0,0,0,0,France,2018
+282,"Digne, Lucas",1993-07-20,Left Back,Everton FC,3,0,0,0,0,0,France,2018
+283,"Rami, Adil",1985-12-27,Centre Back,Olympique Marseille,3,0,0,0,0,0,France,2018
+284,"Mendy, Benjamin",1994-07-17,Left Back,Manchester City,2,3,0,0,0,0,France,2018
+285,"Koscielny, Laurent",1985-09-10,Centre Back,Arsenal FC,1,0,0,0,0,0,France,2018
+286,"Mendy, Ferland",1995-06-08,Left Back,Olympique Lyonnais,1,0,0,0,0,0,France,2018
+287,"Sakho, Mamadou",1990-02-13,Centre Back,Crystal Palace,1,0,0,0,0,0,France,2018
+288,"Zouma, Kurt",1994-10-27,Centre Back,Everton FC,0,1,0,0,0,0,France,2018
+289,"Kanté, N'Golo",1991-03-29,Centre Midfielder,Chelsea FC,16,0,0,0,0,0,France,2018
+290,"Pogba, Paul",1993-03-15,Centre Midfielder,Manchester United,13,2,2,0,0,0,France,2018
+291,"Matuidi, Blaise",1987-04-09,Centre Midfielder,Juventus Torino,12,3,0,0,0,0,France,2018
+292,"Dembélé, Ousmane",1997-05-15,Left Midfielder,FC Barcelona,5,9,1,0,0,0,France,2018
+293,"N'Zonzi, Steven",1988-12-15,Defensive Midfielder,AS Roma,4,8,0,0,0,0,France,2018
+294,"Tolisso, Corentin",1994-08-03,Centre Midfielder,Bayern München,4,6,0,0,0,0,France,2018
+295,"Lemar, Thomas",1995-11-12,Left Midfielder,Atlético Madrid,2,4,1,0,0,0,France,2018
+296,"Fekir, Nabil",1993-07-18,Attacking Midfielder,Olympique Lyonnais,1,9,1,0,0,0,France,2018
+297,"Ndombélé, Tanguy",1996-12-28,Centre Midfielder,Olympique Lyonnais,1,3,0,0,0,0,France,2018
+298,"Rabiot, Adrien",1995-04-03,Centre Midfielder,Paris Saint-Germain,1,0,0,0,0,0,France,2018
+299,"Sissoko, Moussa",1989-08-16,Centre Midfielder,Tottenham Hotspur,0,2,0,0,0,0,France,2018
+300,"Mbappé, Kylian",1998-12-20,Centre Forward,Paris Saint-Germain,16,2,9,0,0,0,France,2018
+301,"Griezmann, Antoine",1991-03-21,Left Winger,Atlético Madrid,16,2,7,0,0,0,France,2018
+302,"Giroud, Olivier",1986-09-30,Centre Forward,Chelsea FC,15,3,4,0,0,0,France,2018
+303,"Thauvin, Florian",1993-01-26,Right Winger,Olympique Marseille,1,4,0,0,0,0,France,2018
+304,"Martial, Anthony",1995-12-05,Centre Forward,Manchester United,1,0,0,0,0,0,France,2018
+305,"Ben Yedder, Wissam",1990-08-12,Centre Forward,Sevilla FC,0,1,0,0,0,0,France,2018
+306,"Payet, Dimitri",1987-03-29,Left Winger,Olympique Marseille,0,1,0,0,0,0,France,2018
+307,"Pléa, Alassane",1993-03-10,Centre Forward,Borussia Mönchengladbach,0,1,0,0,0,0,France,2018
+308,"Lloris, Hugo",1986-12-26,Goalkeeper,Tottenham Hotspur,4,0,0,0,0,0,France,2019
+309,"Areola, Alphonse",1993-02-27,Goalkeeper,Paris Saint-Germain,1,0,0,0,0,0,France,2019
+310,"Umtiti, Samuel",1993-11-14,Centre Back,FC Barcelona,4,0,1,0,0,0,France,2019
+311,"Varane, Raphaël",1993-04-25,Centre Back,Real Madrid,4,0,1,0,0,0,France,2019
+312,"Pavard, Benjamin",1996-03-28,Centre Back,Bayern München,4,0,0,0,0,0,France,2019
+313,"Digne, Lucas",1993-07-20,Left Back,Everton FC,2,0,0,0,0,0,France,2019
+314,"Kurzawa, Layvin",1992-09-04,Left Back,Paris Saint-Germain,2,0,0,0,0,0,France,2019
+315,"Mendy, Ferland",1995-06-08,Left Back,Real Madrid,1,2,0,0,0,0,France,2019
+316,"Zouma, Kurt",1994-10-27,Centre Back,Chelsea FC,1,1,1,0,0,0,France,2019
+317,"Dubois, Léo",1994-09-14,Right Back,Olympique Lyonnais,1,1,0,0,0,0,France,2019
+318,"Lenglet, Clément",1995-06-17,Centre Back,FC Barcelona,1,0,0,0,0,0,France,2019
+319,"Kimpembe, Presnel",1995-08-13,Centre Back,Paris Saint-Germain,0,1,0,0,0,0,France,2019
+320,"Pogba, Paul",1993-03-15,Centre Midfielder,Manchester United,5,0,0,0,0,0,France,2019
+321,"Matuidi, Blaise",1987-04-09,Centre Midfielder,Juventus Torino,3,1,0,0,0,0,France,2019
+322,"Kanté, N'Golo",1991-03-29,Centre Midfielder,Chelsea FC,2,0,0,0,0,0,France,2019
+323,"Ndombélé, Tanguy",1996-12-28,Centre Midfielder,Tottenham Hotspur,2,0,0,0,0,0,France,2019
+324,"Lemar, Thomas",1995-11-12,Left Midfielder,Atlético Madrid,1,3,1,0,0,0,France,2019
+325,"Sissoko, Moussa",1989-08-16,Centre Midfielder,Tottenham Hotspur,1,2,0,0,0,0,France,2019
+326,"Fekir, Nabil",1993-07-18,Attacking Midfielder,Real Betis Sevilla,0,1,0,0,0,0,France,2019
+327,"Griezmann, Antoine",1991-03-21,Left Winger,FC Barcelona,5,0,3,0,0,0,France,2019
+328,"Mbappé, Kylian",1998-12-20,Centre Forward,Paris Saint-Germain,5,0,3,0,0,0,France,2019
+329,"Giroud, Olivier",1986-09-30,Centre Forward,Chelsea FC,3,1,2,0,0,0,France,2019
+330,"Thauvin, Florian",1993-01-26,Right Winger,Olympique Marseille,2,1,1,0,0,0,France,2019
+331,"Ben Yedder, Wissam",1990-08-12,Centre Forward,AS Monaco,1,2,1,0,0,0,France,2019
+332,"Coman, Kingsley",1996-06-13,Right Winger,Bayern München,0,2,0,0,0,0,France,2019
