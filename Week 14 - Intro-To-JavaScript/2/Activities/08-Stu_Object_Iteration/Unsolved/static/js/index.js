@@ -11,6 +11,27 @@ var recipes = [
   { dish: "Home fries", spice: "Celery leaf" },
   { dish: "Hot chicken", spice: "Boldo" }];
 
-console.log(recipes);
+
 
 // @TODO: YOUR CODE HERE
+dishes = []
+spices = []
+
+console.log(recipes)
+
+
+
+recipes.forEach((r) => {
+  dishes.push(r.dish)
+  spices.push(r.spice)
+})
+
+console.log(`Dishes: ${dishes}.\nSpice: ${spices}`)
+
+
+
+Object.entries(recipes).forEach(([key,value]) => {
+  console.log(key,value)
+})
+
+

@@ -19,13 +19,13 @@
         </div>
         <div class="text-center">
         <p class="lead">
-            <a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape new data</a>
+            <a class="btn btn-primary btn-lg" href="{{ url_for('scrapeMars')}}" role="button">Scrape new data</a>
         </p>
         </div>
 	</div>
     <div class="container">
-        <h2>Dolor ipsum</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+        <h2>{{ data.newsTitle }}</h2>
+        <p>{{ data.newsDescription}}</p>
         <hr/>
     </div>
     <div class="container">
@@ -33,13 +33,13 @@
         <div class="row">
             <div class="col-8">
 
-                <img class="img-fluid" src={{featured_image[0]}} />
+                <img class="img-fluid" src="{{data.featuredImageUrl}}" />
             </div>
             <div class="col">
                 <div class="card border-primary mb-3" style="max-width: 20rem;">
                     <div class="card-header">Current Weather on Mars</div>
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's</p>
+                        <p class="card-text">{{data.marsWeather}}</p>
                     </div>
                 </div>
                 <div class="card border-primary mb-3" style="max-width: 20rem;">
@@ -51,22 +51,13 @@
                                     <th scope="col"></th>
                                     <th scope="col">Value</th>
                                 </tr>
+
+                                {% for k,v in data.marsFacts.Value.items() %}
                                 <tr>
-                                    <th scope="row">Default</th>
-                                    <td>Column content</td>
+                                    <th scope="row">{{k}}</th>
+                                    <td>{{v}}</td>
                                 </tr>
-                                <tr>
-                                    <th scope="row">Default</th>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">Default</th>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">Default</th>
-                                    <td>Column content</td>
-                                </tr>
+                                {% endfor %}    
                           </thead>
                         </table>
                     </div>
@@ -81,23 +72,13 @@
         </div>
         <div class="w-100"></div>
         <div class="row">
-            <div class="col">
-                <img class="figure-img" src="{{url_for('static', filename='mars1.jpg')}}" />
-                <h3 class="figure-caption">Cerberus Hemisphere Enhanced</h3>
+
+        {% for d in data.imageList %}
+            <div class="col-6">
+                <img class="figure-img" src="{{ d.img_url }}" />
+                <h3 class="figure-caption">{{ d.title }}</h3>
             </div>
-            <div class="col">
-                <img class="figure-img" src="{{url_for('static', filename='mars2.jpg')}}" />
-                <h3 class="figure-caption">Cerberus Hemisphere Enhanced</h3>
-            </div>
-            <div class="w-100"></div>
-            <div class="col">
-                <img class="figure-img" src="{{url_for('static', filename='mars3.jpg')}}" />
-                <h3 class="figure-caption">Cerberus Hemisphere Enhanced</h3>
-            </div>
-            <div class="col">
-                <img class="figure-img" src="{{url_for('static', filename='mars1.jpg')}}" />
-                <h3 class="figure-caption">Cerberus Hemisphere Enhanced</h3>
-            </div>
+        {% endfor %}
         </div>
     </div>
 

@@ -10,12 +10,12 @@ var princesses = [
 
 // Refactor both code blocks below to use arrow functions
 // Log the name of each princess, follow by a colon, followed by their age
-princesses.forEach(function (princess) {
+princesses.forEach( (princess) => {
   console.log(`${princess.name}: ${princess.age}`)
 });
 
 // Create an array of just the names from the princesses array
-var names = princesses.map(function(princess) {
+var names = princesses.map((princess) => {
   return princess.name;
 });
 console.log("names: ", names);
